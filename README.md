@@ -1,4 +1,4 @@
-🧮 NYG Pixel Art gGnerator
+🧮 NYG Pixel Art Generator
 
 Basic pixel art generator with pixel control.
 
